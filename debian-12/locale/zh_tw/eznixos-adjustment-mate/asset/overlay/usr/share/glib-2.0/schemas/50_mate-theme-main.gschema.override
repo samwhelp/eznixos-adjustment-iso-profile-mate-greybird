@@ -1,12 +1,12 @@
 
 
 [org.mate.Marco.general]
-theme='Arc-Dark'
+theme='Greybird'
 
 
 [org.mate.interface]
-gtk-theme='Arc-Dark'
-icon-theme='Papirus-Dark'
+gtk-theme='Greybird'
+icon-theme='Papirus-Light'
 
 
 [org.mate.peripherals-mouse]
